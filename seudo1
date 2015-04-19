@@ -1,0 +1,52 @@
+abrir puerta casa
+caminar fuera de casa
+cerrar puerta casa
+caminar hacia automovil
+abrir puerta automovil
+insertar llave
+encender automovil
+manejar hacia supermercado
+iterar supermercado hasta 4
+	si supermercado esta abierto entonces
+		estacionar automovil
+		apagar automovil
+		abrir puerta
+		salir del automovil
+		cerrar puerta
+		caminar al supermercado
+		ir al pasillo de pastas dentales
+		si hay pasta dental entonces
+			escojer pasta dental
+			caminar hacia la caja
+			pagar pasta dental
+			recibir boleta
+			caminar hacia automovil
+			abrir puerta automovil
+			subir automovil
+			cerrar puerta automovil
+			insertar llave 
+			encender automovil
+		FinSi
+	Sino 
+		salir de supermercado
+		caminar hacia automovil
+		abrir puerta automovil
+		subir automovil
+		cerrar puerta automovil
+		insertar llave 
+		encender automovil	
+	finSi
+FinIterar
+manejar hacia casa
+estacionar automovil
+apagar automovil
+abrir puerta
+salir del automovil
+cerrar puerta
+caminar a puerta de casa
+insertar llave
+abrir puerta casa
+entrar casa
+cerrar puerta casa
+
+

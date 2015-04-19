@@ -1,0 +1,108 @@
+Sentado en el sofá
+pararse del sofá
+caminar al refrigerador
+pararse en frente del refrigerador
+	si esta la puerta del refrigerador abierta entonces
+		mirar dentro de refrigerador
+		buscar botella
+		si hay botella entonces
+			tomar botella
+			si tiene tapa entonces
+				si tiene tapa rosca entonces
+					colocar palma de la mano en la tapa
+					empuñar la mano hasta asegurar el no deslizamiento de la tapa
+					iterar giro de tapa
+						si tapa aun no sale entonces
+							girar tapa en direccion de las manecillas del reloj
+						sino
+							la botella se ha abierto
+							
+						finSi
+					FinIterar
+				sino
+					si tiene corcho entonces
+						caminar al mueble de la cocina
+						abrir cajon
+						mirar dentro
+						buscar sacacorchos
+						si hay sacacorchos entonces
+							colocar botella sobre mesa
+							colocar sacarochos sobre el corcho de la botella
+								iterar sacacorchos
+									si sacacorchos no esta con brazos en 180° entonces
+										tomar llave sacacorchos
+										girar en sentido de las manecillas del reloj
+									sino
+										con ambas manos bajar brazos de sacacorcho 
+										la botella se ha abierto
+									finSi
+								finIterar
+						sino
+							caminar al refrigerador
+							dejar botella donde estaba
+							
+						finSi
+					sino
+						guardar botella donde estaba
+					finSi
+				finSi
+			sino
+				guardar botella donde estaba
+			finSi
+		finSi
+	cerrar puerta refrigerador
+	sino
+		Abrir puerta refrijerador
+		mirar dentro de refrigerador
+		buscar botella
+		si hay botella entonces
+			tomar botella
+			si tiene tapa entonces
+				si tiene tapa rosca entonces
+					colocar palma de la mano en la tapa
+					empuñar la mano hasta asegurar el no deslizamiento de la tapa
+					iterar giro de tapa
+						si tapa aun no sale entonces
+							girar tapa en direccion de las manecillas del reloj
+						sino
+							la botella se ha abierto
+							
+						finSi
+					FinIterar
+				sino
+					si tiene corcho entonces
+						caminar al mueble de la cocina
+						abrir cajon
+						mirar dentro
+						buscar sacacorchos
+						si hay sacacorchos entonces
+							colocar botella sobre mesa
+							colocar sacarochos sobre el corcho de la botella
+								iterar sacacorchos
+									si sacacorchos no esta con brazos en 180° entonces
+										tomar llave sacacorchos
+										girar en sentido de las manecillas del reloj
+									sino
+										con ambas manos bajar brazos de sacacorcho 
+										la botella se ha abierto
+									finSi
+								finIterar
+						sino
+							caminar al refrigerador
+							dejar botella donde estaba
+							
+						finSi
+					sino
+						guardar botella donde estaba
+					finSi
+				finSi
+			sino
+				guardar botella donde estaba
+			finSi
+		finSi
+	cerrar puerta refrigerador
+	finSi
+caminar al sofá
+sentarse en el sofá
+
+
